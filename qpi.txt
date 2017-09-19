@@ -1,0 +1,23 @@
+后台--接口   DesignPlatformService
+ 开发：http://192.168.2.200:8082/api/**/**
+ 测试、预发布：http://192.168.2.200:8282
+ 
+ 开发
+ H5（old）： http://192.168.2.200:8082/api/
+ H5（new）： http://192.168.2.200:8082/api/app/
+ 
+ 测试、预发布
+ H5（old）： http://192.168.2.200:8282/api/
+ H5（new）： http://192.168.2.200:8282/api/app/
+
+PC 
+
+前台
+	首页、列表。。。 DJLUI  nodejs
+	雇主后台。。。  DesignerWeb  VUE + iView
+
+管理员后台 
+	业务管理员后台  Platform VUE + iView
+	超级管理员后台  superManage VUE + iView
+	
+H5  DJLApp VUE + mint-ui
